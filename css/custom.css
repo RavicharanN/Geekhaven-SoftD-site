@@ -1,3 +1,29 @@
+.change-float {
+  float: right !important;
+}
+
+/*The picture and text cards*/
+.picture-card {
+  width: 250px;
+  height: 320px;
+  border: 5px #607d8b ;
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  margin-left: 50px;
+  background-color: white;
+}
+.picture-card:hover {
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+.picture-card-text {
+
+  text-align: center;
+  font-family: monospace;
+}
+img {
+  width:100%;
+  height: auto;
+  padding: 2px;
+}
 
 /*All shades of colors. Taken from materalise*/
 .materialize-red {

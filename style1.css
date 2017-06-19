@@ -92,4 +92,7 @@ html, body {
 		font-size: 100%;
 		padding: 6px 14px;
 	}
+	.picture-card {
+		margin-left: 100px !important ;
+	}
 }
