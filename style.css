@@ -40,6 +40,11 @@ img {
     
 }
 
+.picture-card-text h4 {
+    
+    font-family: 'Questrial', sans-serif;
+}
+
 #banner-wrapper {
 	max-width: 1280px;
 	margin: 0 auto;
