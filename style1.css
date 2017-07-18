@@ -43,10 +43,10 @@ html, body {
 	font-family: 'Montserrat', sans-serif;
 	font-size: 135%;
 	font-weight: 400;
-	color: #3A6168;
+	color: #4A4444;
 	text-transform: uppercase;
 	text-decoration: none;
-	border: solid #3A6168;
+	border: solid #4A4444;
 	padding: 10px 20px;
 	border-radius: 9px;
 	transition: all 0.5s;
@@ -54,6 +54,10 @@ html, body {
 .btn:hover {
 	color: #CBDFD6;
 	border: solid #CBDFD6 2px;
+}
+
+#navbar {
+    border-radius: 5px;
 }
 /*--- Media Queries --*/
 @media screen and (max-width: 900px) {
